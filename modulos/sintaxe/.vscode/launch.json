@@ -1,0 +1,63 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "MyClass",
+            "request": "launch",
+            "mainClass": "edu.guilherme.anatomia_das_classes.MyClass",
+            "projectName": "sintaxe_25ff8862"
+        },
+        {
+            "type": "java",
+            "name": "StudentBulletin",
+            "request": "launch",
+            "mainClass": "edu.guilherme.anatomia_das_classes.StudentBulletin",
+            "projectName": "sintaxe_25ff8862"
+        },
+        {
+            "type": "java",
+            "name": "SmartControl",
+            "request": "launch",
+            "mainClass": "edu.guilherme.metodos.SmartControl",
+            "projectName": "sintaxe_25ff8862"
+        },
+        {
+            "type": "java",
+            "name": "Operadores",
+            "request": "launch",
+            "mainClass": "edu.guilherme.operadores.Operadores",
+            "projectName": "sintaxe_25ff8862"
+        },
+        {
+            "type": "java",
+            "name": "AboutMe",
+            "request": "launch",
+            "mainClass": "edu.guilherme.terminal.AboutMe",
+            "projectName": "sintaxe_25ff8862"
+        },
+        {
+            "type": "java",
+            "name": "MyClass(1)",
+            "request": "launch",
+            "mainClass": "edu.guilherme.terminal.MyClass",
+            "projectName": "sintaxe_25ff8862"
+        },
+        {
+            "type": "java",
+            "name": "TiposVariaveis",
+            "request": "launch",
+            "mainClass": "edu.guilherme.tipos_e_variaveis.TiposVariaveis",
+            "projectName": "sintaxe_25ff8862"
+        },
+    ]
+}
