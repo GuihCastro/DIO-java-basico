@@ -4,5 +4,7 @@ public class For {
             String message = sheeps == 1 ? " sheep" : " sheeps";
             System.out.println(sheeps + message);
         }
+
+        System.out.println("Finally fell asleep...");
     }
 }
